@@ -1,6 +1,6 @@
 const container=document.querySelector("#container");
-const button=document.querySelector("#button");
-const reset=document.querySelector(".reset-button");
+const button=document.querySelector(".button");
+const reset=document.querySelector("#reset-button");
 reset.addEventListener("click",()=>{
  location.reload();
 })
