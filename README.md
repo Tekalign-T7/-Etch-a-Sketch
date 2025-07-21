@@ -1,2 +1,2 @@
 # Etch-a-Sketch
- Etch-a-Sketch The Odin Project Solution.
+ Etch-a-Sketch colorfull skeching pad for The Odin Project Solution.
