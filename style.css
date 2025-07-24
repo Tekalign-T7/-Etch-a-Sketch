@@ -34,3 +34,7 @@ button:hover{
     cursor:pointer;
     color:white;
 }
+footer{
+    margin-top:2px;
+    text-align:center;
+}
